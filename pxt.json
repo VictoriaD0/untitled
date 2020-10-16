@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "2.2 Activity - Introduction to GitHub",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -7,7 +7,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
